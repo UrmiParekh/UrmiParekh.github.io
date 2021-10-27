@@ -3,4 +3,4 @@ layout: post
 title: 27/10/2021 Today Marks the beginning. 
 ---
 
-This is your first blog post--make it your own!
+It is super windy and rainy and gloomy today. Perfect for a hot chocolate.
