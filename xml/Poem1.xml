@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/C:/Users/urmi1/OneDrive/Desktop/Eng%20Lit/Intro%20to%20DH/xml_materials/Schemas/Poem1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<Poem xmlns="Urmi.Parekh.github.io/ns/1.0">
+    
+    <Title> Let's Think of Eggs</Title>
+    <Author> Ogden Nash</Author>
+    <stanza>
+        <line> Let's think of eggs-- </line>
+        <line> They have no legs! </line>
+    </stanza>
+</Poem>
